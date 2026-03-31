@@ -16,7 +16,7 @@ The original Malfunc can be found [here](https://forum.kerbalspaceprogram.com/to
 
 The original P.E.W can be found [here](https://spacedock.info/mod/237/P.E.W)
 
-The full version of KerbalField can be found [here](https://github.com/Cypherthe3rd/Kerbalfield-ER)
+The full version of KerbalField can be found [here](https://codeberg.org/cypherthe3rd/Kerbalfield-ER)
 
 
 Have fun!
